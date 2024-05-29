@@ -25,8 +25,8 @@
 <h3 align="left">Languages and Tools:</h3>
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,figma,git,html,js,ps,react,tailwind)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyan7878&show_icons=true&locale=en&layout=compact" alt="rayyan7878" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRayyan16&show_icons=true&locale=en&layout=compact" alt="MuhammadRayyan16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayyan7878&show_icons=true&locale=en" alt="rayyan7878" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadRayyan16&show_icons=true&locale=en" alt="MuhammadRayyan16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyan7878&" alt="rayyan7878" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRayyan16&" alt="MuhammadRayyan16" /></p>
